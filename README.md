@@ -1,2 +1,2 @@
-# chrom-trex-game
+# chrome-trex-game
 A game made in pure javaScript HTML and CSS
