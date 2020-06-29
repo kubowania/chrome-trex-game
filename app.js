@@ -21,6 +21,7 @@ function jump() {
   let count = 0
   let timerId = setInterval(function () {
     //move down
+    console.log('down')
     if (count === 15) {
       clearInterval(timerId)
       let downTimerId = setInterval(function () {
@@ -36,6 +37,7 @@ function jump() {
 
     }
     //move up
+    console.log('up')
     position +=30
     count++
     position = position * gravity
