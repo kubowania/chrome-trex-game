@@ -10,22 +10,22 @@ I like this tutorial as we really focus on nodes, so adding Children to parents 
 
 I will also be showing you how to make sure your code is the best possible version of itself it can be by using a platform called Embold. I will walk you through this step by step at the end so make sure not to miss.
 
-UPDATE: 
+### UPDATE: 
 I collaborate with Embold and they provide us with a 20% off discount code as well! 
-Code: GB546C10
-Website link: https://bit.ly/embold-platform
+* Code: GB546C10
+* Website link: https://bit.ly/embold-platform
 
 Thanks for coding along with me! I would love to see your finished games, how you have taken them to that extra level! Please do share them with me on Twitter, Instagram, or Youtube!
 
-https://www.youtube.com/aniakubow
-https://www.twitter.com/ania_kubow
-https://www.instagram.com/aniakubow
-Code Editor: VSCode
-keyCodes: https://www.keycode.info
+* https://www.youtube.com/aniakubow
+* https://www.twitter.com/ania_kubow
+* https://www.instagram.com/aniakubow
+* Code Editor: VSCode
+* keyCodes: https://www.keycode.info
 
 #JavaScriptGames #100DaysOfCode #gamDev
 
-## Watch my video below:
+### Watch my video below:
 
 [![IMAGE TO SUPPORT MY TREX TUTORIAL](https://img.youtube.com/vi/dQ6lYd6dyTI/0.jpg)](https://www.youtube.com/watch?v=dQ6lYd6dyTI)
 
