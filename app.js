@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 const dino = document.querySelector('.dino')
 const grid = document.querySelector('.grid')
+const body = document.querySelector('body')
 const alert = document.getElementById('alert')
 let isJumping = false
 let gravity = 0.9
@@ -21,7 +22,6 @@ function jump() {
   let count = 0
   let timerId = setInterval(function () {
     //move down
-    console.log('down')
     if (count === 15) {
       clearInterval(timerId)
       let downTimerId = setInterval(function () {
@@ -37,7 +37,6 @@ function jump() {
 
     }
     //move up
-    console.log('up')
     position +=30
     count++
     position = position * gravity
@@ -59,9 +58,11 @@ function generateObstacles() {
       alert.innerHTML = 'Game Over'
       isGameOver = true
       //remove all children
+      body.removeChild(body.firstChild)
       while (grid.firstChild) {
         grid.removeChild(grid.lastChild)
       }
+      
     }
     obstaclePosition -=10
     obstacle.style.left = obstaclePosition + 'px'
