@@ -25,5 +25,7 @@ keyCodes: https://www.keycode.info
 
 #JavaScriptGames #100DaysOfCode #gamDev
 
+## Watch my video below:
+
 [![IMAGE TO SUPPORT MY TREX TUTORIAL](https://img.youtube.com/vi/dQ6lYd6dyTI/0.jpg)](https://www.youtube.com/watch?v=dQ6lYd6dyTI)
 
